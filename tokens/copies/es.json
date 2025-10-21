@@ -1,215 +1,215 @@
 {
   "hero": {
     "title": {
-      "value": "Hero Title",
+      "value": "Bienvenido mundo!",
       "type": "text"
     },
     "subtitle": {
-      "value": "Hero Subtitle",
+      "value": "Subtítulo principal",
       "type": "text"
     },
     "button": {
-      "value": "Hero Button",
+      "value": "Botón principal",
       "type": "text"
     }
   },
   "intro": {
     "title": {
-      "value": "Intro Title",
+      "value": "Título de introducción",
       "type": "text"
     },
     "subtitle": {
       "p1": {
-        "value": "Intro paragraph 1",
+        "value": "Párrafo de introducción 1",
         "type": "text"
       },
       "p2": {
-        "value": "Intro paragraph 2",
+        "value": "Párrafo de introducción 2",
         "type": "text"
       }
     },
     "button": {
       "primary": {
-        "value": "Intro button primary",
+        "value": "Botón primario de introducción",
         "type": "text"
       },
       "secondary": {
-        "value": "Intro button secondary",
+        "value": "Botón secundario de introducción",
         "type": "text"
       }
     }
   },
   "logos": {
     "title": {
-      "value": "Logos Title",
+      "value": "Título de logos",
       "type": "text"
     }
   },
   "sessions": {
     "title": {
-      "value": "Sessions title",
+      "value": "Título de sesiones",
       "type": "text"
     },
     "tag": {
       "one": {
-        "value": "Sessions tag one",
+        "value": "Etiqueta de sesión uno",
         "type": "text"
       },
       "two": {
-        "value": "Sessions tag two",
+        "value": "Etiqueta de sesión dos",
         "type": "text"
       },
       "three": {
-        "value": "Sessions tag three",
+        "value": "Etiqueta de sesión tres",
         "type": "text"
       },
       "four": {
-        "value": "Sessions tag four",
+        "value": "Etiqueta de sesión cuatro",
         "type": "text"
       },
       "five": {
-        "value": "Sessions tag five",
+        "value": "Etiqueta de sesión cinco",
         "type": "text"
       }
     },
     "card": {
       "one": {
         "caption": {
-          "value": "Card caption one",
+          "value": "Leyenda de tarjeta uno",
           "type": "text"
         },
         "title": {
-          "value": "Card title one",
+          "value": "Título de tarjeta uno",
           "type": "text"
         },
         "description": {
-          "value": "Card description one",
+          "value": "Descripción de tarjeta uno",
           "type": "text"
         }
       },
       "two": {
         "caption": {
-          "value": "Card caption two",
+          "value": "Leyenda de tarjeta dos",
           "type": "text"
         },
         "title": {
-          "value": "Card title two",
+          "value": "Título de tarjeta dos",
           "type": "text"
         },
         "description": {
-          "value": "Card description two",
+          "value": "Descripción de tarjeta dos",
           "type": "text"
         }
       },
       "three": {
         "caption": {
-          "value": "Card caption three",
+          "value": "Leyenda de tarjeta tres",
           "type": "text"
         },
         "title": {
-          "value": "Card title three",
+          "value": "Título de tarjeta tres",
           "type": "text"
         },
         "description": {
-          "value": "Card description three",
+          "value": "Descripción de tarjeta tres",
           "type": "text"
         }
       },
       "four": {
         "caption": {
-          "value": "Card caption four",
+          "value": "Leyenda de tarjeta cuatro",
           "type": "text"
         },
         "title": {
-          "value": "Card title four",
+          "value": "Título de tarjeta cuatro",
           "type": "text"
         },
         "description": {
-          "value": "Card description four",
+          "value": "Descripción de tarjeta cuatro",
           "type": "text"
         }
       },
       "five": {
         "caption": {
-          "value": "Card caption five",
+          "value": "Leyenda de tarjeta cinco",
           "type": "text"
         },
         "title": {
-          "value": "Card title five",
+          "value": "Título de tarjeta cinco",
           "type": "text"
         },
         "description": {
-          "value": "Card description five",
+          "value": "Descripción de tarjeta cinco",
           "type": "text"
         }
       },
       "six": {
         "caption": {
-          "value": "Card caption six",
+          "value": "Leyenda de tarjeta seis",
           "type": "text"
         },
         "title": {
-          "value": "Card title six",
+          "value": "Título de tarjeta seis",
           "type": "text"
         },
         "description": {
-          "value": "Card description six",
+          "value": "Descripción de tarjeta seis",
           "type": "text"
         }
       },
       "seven": {
         "caption": {
-          "value": "Card caption seven",
+          "value": "Leyenda de tarjeta siete",
           "type": "text"
         },
         "title": {
-          "value": "Card title seven",
+          "value": "Título de tarjeta siete",
           "type": "text"
         },
         "description": {
-          "value": "Card description seven",
+          "value": "Descripción de tarjeta siete",
           "type": "text"
         }
       },
       "eight": {
         "caption": {
-          "value": "Card caption eight",
+          "value": "Leyenda de tarjeta ocho",
           "type": "text"
         },
         "title": {
-          "value": "Card title eight",
+          "value": "Título de tarjeta ocho",
           "type": "text"
         },
         "description": {
-          "value": "Card description eight",
+          "value": "Descripción de tarjeta ocho",
           "type": "text"
         }
       },
       "nine": {
         "caption": {
-          "value": "Card caption nine",
+          "value": "Leyenda de tarjeta nueve",
           "type": "text"
         },
         "title": {
-          "value": "Card title nine",
+          "value": "Título de tarjeta nueve",
           "type": "text"
         },
         "description": {
-          "value": "Card description nine",
+          "value": "Descripción de tarjeta nueve",
           "type": "text"
         }
       },
       "ten": {
         "caption": {
-          "value": "Card caption ten",
+          "value": "Leyenda de tarjeta diez",
           "type": "text"
         },
         "title": {
-          "value": "Card title ten",
+          "value": "Título de tarjeta diez",
           "type": "text"
         },
         "description": {
-          "value": "Card description ten",
+          "value": "Descripción de tarjeta diez",
           "type": "text"
         }
       }
@@ -218,98 +218,98 @@
   "teachers": {
     "one": {
       "name": {
-        "value": "Name one",
+        "value": "Nombre uno",
         "type": "text"
       },
       "position": {
-        "value": "Position one",
+        "value": "Cargo uno",
         "type": "text"
       }
     },
     "two": {
       "name": {
-        "value": "Name two",
+        "value": "Nombre dos",
         "type": "text"
       },
       "position": {
-        "value": "Position two",
+        "value": "Cargo dos",
         "type": "text"
       }
     },
     "title": {
-      "value": "Title teachers",
+      "value": "Título de profesores",
       "type": "text"
     }
   },
   "pricing": {
     "title": {
-      "value": "Pricing title",
+      "value": "Título de precios",
       "type": "text"
     },
     "card": {
       "one": {
         "caption": {
-          "value": "Caption card one",
+          "value": "Leyenda tarjeta uno",
           "type": "text"
         },
         "title": {
-          "value": "Title card one",
+          "value": "Título tarjeta uno",
           "type": "text"
         },
         "price": {
-          "value": "Price",
+          "value": "Precio",
           "type": "text"
         },
         "description": {
-          "value": "Description card one",
+          "value": "Descripción tarjeta uno",
           "type": "text"
         },
         "button": {
-          "value": "Button card one",
+          "value": "Botón tarjeta uno",
           "type": "text"
         }
       },
       "two": {
         "caption": {
-          "value": "Caption card two",
+          "value": "Leyenda tarjeta dos",
           "type": "text"
         },
         "title": {
-          "value": "Title card two",
+          "value": "Título tarjeta dos",
           "type": "text"
         },
         "price-primary": {
-          "value": "Price",
+          "value": "Precio principal",
           "type": "text"
         },
         "price-secondary": {
-          "value": "Price 2",
+          "value": "Precio secundario",
           "type": "text"
         },
         "description": {
-          "value": "Description card two",
+          "value": "Descripción tarjeta dos",
           "type": "text"
         },
         "button": {
-          "value": "Button card two",
+          "value": "Botón tarjeta dos",
           "type": "text"
         }
       },
       "three": {
         "caption": {
-          "value": "Caption card three",
+          "value": "Leyenda tarjeta tres",
           "type": "text"
         },
         "title": {
-          "value": "Title card three",
+          "value": "Título tarjeta tres",
           "type": "text"
         },
         "description": {
-          "value": "Description card three",
+          "value": "Descripción tarjeta tres",
           "type": "text"
         },
         "button": {
-          "value": "Button card three",
+          "value": "Botón tarjeta tres",
           "type": "text"
         }
       }
@@ -317,92 +317,96 @@
   },
   "video": {
     "title": {
-      "value": "Title video",
+      "value": "Título del video",
       "type": "text"
     }
   },
   "faqs": {
     "one": {
       "title": {
-        "value": "Title one",
+        "value": "Título uno",
         "type": "text"
       },
       "description": {
-        "value": "Description one",
+        "value": "Descripción uno",
         "type": "text"
       }
     },
     "two": {
       "title": {
-        "value": "Title two",
+        "value": "Título dos",
         "type": "text"
       },
       "description": {
-        "value": "Description two",
+        "value": "Descripción dos",
         "type": "text"
       }
     },
     "three": {
       "title": {
-        "value": "Title three",
+        "value": "Título tres",
         "type": "text"
       },
       "description": {
-        "value": "Description three",
+        "value": "Descripción tres",
         "type": "text"
       }
     },
     "four": {
       "title": {
-        "value": "Title four",
+        "value": "Título cuatro",
         "type": "text"
       },
       "description": {
-        "value": "Description four",
+        "value": "Descripción cuatro",
         "type": "text"
       }
     },
     "five": {
       "title": {
-        "value": "Title five",
+        "value": "Título cinco",
         "type": "text"
       },
       "description": {
-        "value": "Description five",
+        "value": "Descripción cinco",
         "type": "text"
       }
     },
     "six": {
       "title": {
-        "value": "Title six",
+        "value": "Título seis",
         "type": "text"
       },
       "description": {
-        "value": "Description six",
+        "value": "Descripción seis",
         "type": "text"
       }
     },
     "title": {
-      "value": "Title FAQs",
+      "value": "Título de preguntas frecuentes",
       "type": "text"
     }
   },
   "footer": {
     "copyright": {
-      "value": "Copyright © 2025 All rights reserved.",
+      "value": "Copyright © 2025. Todos los derechos reservados.",
+      "type": "text"
+    },
+    "language": {
+      "value": "English",
       "type": "text"
     },
     "link": {
       "privacy": {
-        "value": "Privacy",
+        "value": "Privacidad",
         "type": "text"
       },
       "mail": {
-        "value": "mail",
+        "value": "Correo",
         "type": "text"
       },
       "linkedin": {
-        "value": "Linkedin",
+        "value": "LinkedIn",
         "type": "text"
       },
       "substack": {

@@ -9,7 +9,7 @@
       "type": "dimension"
     },
     "x100": {
-      "value": "4",
+      "value": "4px",
       "type": "dimension"
     },
     "x200": {
@@ -141,6 +141,12 @@
     "large": {
       "value": "{dimension.x1000}",
       "type": "borderRadius"
+    },
+    "button": {
+      "default": {
+        "value": "{borderRadius.medium}",
+        "type": "borderRadius"
+      }
     }
   },
   "fontFamily": {
@@ -269,6 +275,75 @@
     "uppercase": {
       "value": "uppercase",
       "type": "textCase"
+    }
+  },
+  "sizing": {
+    "button": {
+      "height": {
+        "default": {
+          "value": "{dimension.x1000}",
+          "type": "sizing"
+        }
+      }
+    }
+  },
+  "motion": {
+    "button": {
+      "press": {
+        "scale": {
+          "value": "0.97",
+          "type": "number"
+        },
+        "duration": {
+          "value": "100",
+          "type": "number"
+        },
+        "easing": {
+          "value": "{motion.easing.ease-in-out}",
+          "type": "text"
+        }
+      }
+    },
+    "easing": {
+      "ease": {
+        "value": "ease",
+        "type": "text"
+      },
+      "ease-in": {
+        "value": "ease-in",
+        "type": "text"
+      },
+      "ease-out": {
+        "value": "ease-out",
+        "type": "text"
+      },
+      "ease-in-out": {
+        "value": "ease-in-out",
+        "type": "text"
+      }
+    }
+  },
+  "border": {
+    "button": {
+      "value": {
+        "width": "{borderWidth.medium}",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "dashed": {
+      "value": {
+        "width": "{borderWidth.medium}",
+        "style": "dashed"
+      },
+      "type": "border"
+    },
+    "solid": {
+      "value": {
+        "width": "{borderWidth.medium}",
+        "style": "solid"
+      },
+      "type": "border"
     }
   }
 }

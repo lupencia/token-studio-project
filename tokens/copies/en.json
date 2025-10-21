@@ -392,6 +392,10 @@
       "value": "Copyright © 2025 All rights reserved.",
       "type": "text"
     },
+    "language": {
+      "value": "Español",
+      "type": "text"
+    },
     "link": {
       "privacy": {
         "value": "Privacy",
